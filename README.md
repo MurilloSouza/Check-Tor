@@ -1,4 +1,4 @@
-# CHECKR REDE TOR 
+# Check Tor
 
  git clone https://github.com/MurilloSouza/Checkr-rede-Tor/
 
